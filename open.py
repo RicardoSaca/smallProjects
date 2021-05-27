@@ -1,7 +1,5 @@
-#py -m webbrowser -n "https://gmail.com"
-#py -m webbrowser -t "https://outlook.office.com"
-#py -m webbrowser -t "https://canvas.instructure.com/courses/2813620"
-#py -m webbrowser -t "https://sakai.providence.edu/"
+# Command line interface:
+# py -m webbrowser -n "https://gmail.com"
 
 import webbrowser
 
